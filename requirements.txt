@@ -1,0 +1,19 @@
+# Engineering Audit Document Generator - Dependencies
+# Python >= 3.8
+
+# Core document processing
+python-docx>=0.8.11
+docxtpl>=0.16.7
+openpyxl>=3.1.2
+
+# Data processing
+pandas>=2.0.0
+
+# Optional: Excel automation (Windows only)
+xlwings>=0.30.0; platform_system=="Windows"
+
+# Optional: Legacy Excel format support
+xlrd>=2.0.1
+
+# Optional: Progress bar for CLI
+tqdm>=4.65.0

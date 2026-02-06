@@ -1,0 +1,71 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Project Specific - Sensitive Data
+待处理数据/*.xlsx
+待处理数据/*.xlsm
+待处理数据/*.xls
+!待处理数据/.gitkeep
+date.xlsx
+
+# Project Specific - Generated Output
+生成结果/
+!生成结果/.gitkeep
+发布版本/
+*.zip
+
+# Build artifacts
+dist_x86/
+*.spec
+
+# Logs
+*.log
+生成结果/logs/
+生成结果/debug/
+
+# Temporary Excel files
+~$*.xlsx
+~$*.xlsm
+~$*.xls
+~$*.docx
+
+# Compiled executables
+*.exe
