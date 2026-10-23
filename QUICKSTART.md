@@ -69,7 +69,7 @@ python generate_docs_final.py
 
 ```
 生成结果/
-  ├── 德皓核字[2025]00001619_项目A/
+  ├── XX核字[20XX]0000XXXX_项目A/
   │   ├── 1_报告封面_项目A.docx
   │   ├── 2_工程竣工决算审核报告_项目A.docx
   │   ├── 3_审核表_项目A.xlsx
@@ -77,7 +77,7 @@ python generate_docs_final.py
   │   ├── 5_竣工决算报告说明书_项目A.docx
   │   └── 6_基建工程竣工决算报表_项目A.xlsx
   │
-  ├── 德皓核字[2025]00001620_项目B/
+  ├── XX核字[20XX]0000XXXX_项目B/
   │   └── ...
   │
   └── logs/

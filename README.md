@@ -1,6 +1,6 @@
 # 🏗️ 工程竣工决算文档生成工具
 
-> **30秒电梯演讲**：工程审计人员每次项目结束都要手工填写5-6份格式固定的Word/Excel报告，重复劳动耗时且易错。本工具通过模板引擎 + 数据映射，**一键批量生成**所有竣工决算文档，将原本2小时的工作压缩到2分钟。
+> **30秒电梯演讲**：工程审计人员每次项目结束都要手工填写5-6份格式固定的Word/Excel报告，重复劳动耗时且易错。本工具通过模板引擎 + 数据映射，**一键批量生成**所有竣工决算文档。程序批量生成全套文档仅需数分钟；包含人工核对在内，单个项目的报告编制时间由约1–2小时缩短至30–40分钟（资料齐全条件下的个人实测）。
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
